@@ -1,2 +1,2 @@
 # Miata
-![:D](/miata.JPG)
+![:D](/miata.jpg)
